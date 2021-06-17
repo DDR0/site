@@ -31,27 +31,6 @@ in  [ Person::{
       , twitter = "https://twitter.com/euforic"
       }
     , Person::{
-      , name = "David Roberts"
-      , tags =
-        [ "ux"
-        , "ui"
-        , "documentation"
-        , "web"
-        , "html5"
-        , "javascript"
-        , "python"
-        , "qt"
-        , "bash"
-        , "front-end"
-        , "full-stack"
-        , "linux"
-        , "embedded"
-        , "sql"
-        ]
-      , gitLink = "https://github.com/ddr0"
-      , twitter = "https://twitter.com/DDR_4"
-      }
-    , Person::{
       , name = "Faizan Jamil"
       , tags =
         [ "java"
